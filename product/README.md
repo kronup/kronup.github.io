@@ -1,5 +1,5 @@
 ---
-description: Learn how to use Kronup to maximize your startup's changes of success
+description: Learn how to use Kronup to maximize your startup's changes of success.
 ---
 
 # 👋 Welcome to Kronup
